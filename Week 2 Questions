@@ -1,1 +1,6 @@
+1. Are the operators (e.g. /, //, **, %) used the same way?
 
+No - in Python, you do decimal division using //, integer division using /, while in Java and C++, you  have to typecast to change it from integer to decimal.
+Also to do exponents, Python is 10 ** 2 while Java is Math.pow(10, 2) and C++ is strd:pow(10, 2)
+
+2. 
